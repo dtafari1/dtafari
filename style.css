@@ -1,0 +1,114 @@
+body{
+    font-family: Georgia, Helvetica, sans-serif;
+    margin: 0px;
+    font-size: 1.5vw;
+    background-color: #D8DCD6;
+    color: #000110;
+}
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    width: 16%;
+    border-radius: 45%;
+    box-shadow: 8px 8px 10px 3px #9900fa
+    
+    
+}
+
+ul {
+    margin: 0px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.navbutton {
+    color: #9900FA;
+    text-decoration: none;
+    padding: 12px;
+    border: 2px solid #ffffff;
+    border-radius: 10%;
+}
+
+#nav-ul {
+    display: flex;
+
+}
+
+#nav-ul > li {
+    padding: 8px;
+    margin: 16px;
+}
+
+body > header {
+    background-color: #CEA2FD;
+    color: #9900FA;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    height: 13vh;
+}
+
+
+body > main > article {
+    width: 60%;
+    margin: auto;
+
+}
+
+p { 
+    2em
+}
+
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+main > footer {
+    background-color: #CEA2FD;
+    color: #9900FA;   
+    margin: 0px;
+    display: flex;
+    border-radius: 10%;
+}
+
+#footer-ul {
+    display: flex;
+    list-style: none;
+
+}
+
+#footer-ul >div >li {
+    margin-left: 15px;
+}
+
+#footer-ul > div > li > a {
+    color: #9900FA;
+    text-decoration: none;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+#main-content > div {
+    display: flex;
+
+}
+
+    
+
+#main-content > div {
+    width: 70%;
+}
+
